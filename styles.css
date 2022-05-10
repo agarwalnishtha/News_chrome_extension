@@ -1,0 +1,17 @@
+body{
+    /* height: 200px; */
+    width: 200px;
+    /* display: flex; */
+    justify-content: center;
+    /* overflow-y: auto; */
+}
+
+#news{
+    /* display: inner-flex; */
+    margin: auto;
+    /* font-size: 22px; */
+    border-radius: 6px;
+    border: 2px solid;
+    padding: 10px;
+    /* overflow: auto; */
+}
